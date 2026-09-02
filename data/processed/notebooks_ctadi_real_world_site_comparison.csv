@@ -1,0 +1,4 @@
+facility,latitude,longitude,weighted_avg_miles_reduced,high_priority_tracts_improved,high_priority_within_5mi_after,high_priority_within_10mi_after,critical_within_5mi_after,critical_within_10mi_after,pct_of_optimal_impact
+Mathematical optimum,40.75419,-74.18777,5.683300185758707,61,45,52,6,7,100.0
+Biotrial Inc.,40.7455436,-74.1830625,5.631766551846814,60,45,50,6,6,99.09324455461588
+Rutgers New Jersey Medical School Clinical Research Unit,40.740773,-74.192109,5.572067913673456,58,46,50,6,6,98.04282250717675
